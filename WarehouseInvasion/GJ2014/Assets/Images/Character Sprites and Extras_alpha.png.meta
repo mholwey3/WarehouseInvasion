@@ -1,0 +1,4503 @@
+fileFormatVersion: 2
+guid: d75e5d9b9651ede419391103658ca29f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character Sprites and Extras_alpha
+    21300002: Character Sprites and Extras_alpha_0
+    21300004: Character Sprites and Extras_alpha_1
+    21300006: Character Sprites and Extras_alpha_2
+    21300008: Character Sprites and Extras_alpha_3
+    21300010: Character Sprites and Extras_alpha_4
+    21300012: Character Sprites and Extras_alpha_5
+    21300014: Character Sprites and Extras_alpha_6
+    21300016: Character Sprites and Extras_alpha_7
+    21300018: Character Sprites and Extras_alpha_8
+    21300020: Character Sprites and Extras_alpha_9
+    21300022: Character Sprites and Extras_alpha_10
+    21300024: Character Sprites and Extras_alpha_11
+    21300026: Character Sprites and Extras_alpha_12
+    21300028: Character Sprites and Extras_alpha_13
+    21300030: Character Sprites and Extras_alpha_14
+    21300032: Character Sprites and Extras_alpha_15
+    21300034: Character Sprites and Extras_alpha_16
+    21300036: Character Sprites and Extras_alpha_17
+    21300038: Character Sprites and Extras_alpha_18
+    21300040: Character Sprites and Extras_alpha_19
+    21300042: Character Sprites and Extras_alpha_20
+    21300044: Character Sprites and Extras_alpha_21
+    21300046: Character Sprites and Extras_alpha_22
+    21300048: Character Sprites and Extras_alpha_23
+    21300050: Character Sprites and Extras_alpha_24
+    21300052: Character Sprites and Extras_alpha_25
+    21300054: Character Sprites and Extras_alpha_26
+    21300056: Character Sprites and Extras_alpha_27
+    21300058: Character Sprites and Extras_alpha_28
+    21300060: Zombie_1
+    21300062: Character Sprites and Extras_alpha_30
+    21300064: Character Sprites and Extras_alpha_31
+    21300066: Character Sprites and Extras_alpha_32
+    21300068: Character Sprites and Extras_alpha_33
+    21300070: Character Sprites and Extras_alpha_34
+    21300072: Character Sprites and Extras_alpha_35
+    21300074: Character Sprites and Extras_alpha_36
+    21300076: Zombie_3
+    21300078: Character Sprites and Extras_alpha_38
+    21300080: Character Sprites and Extras_alpha_39
+    21300082: Character Sprites and Extras_alpha_40
+    21300084: Character Sprites and Extras_alpha_41
+    21300086: Character Sprites and Extras_alpha_42
+    21300088: Character Sprites and Extras_alpha_43
+    21300090: Character Sprites and Extras_alpha_44
+    21300092: Character Sprites and Extras_alpha_45
+    21300094: Character Sprites and Extras_alpha_46
+    21300096: Character Sprites and Extras_alpha_47
+    21300098: Character Sprites and Extras_alpha_48
+    21300100: Character Sprites and Extras_alpha_49
+    21300102: Character Sprites and Extras_alpha_50
+    21300104: Character Sprites and Extras_alpha_51
+    21300106: Character Sprites and Extras_alpha_52
+    21300108: Character Sprites and Extras_alpha_53
+    21300110: Character Sprites and Extras_alpha_54
+    21300112: Character Sprites and Extras_alpha_55
+    21300114: Character Sprites and Extras_alpha_56
+    21300116: Character Sprites and Extras_alpha_57
+    21300118: Character Sprites and Extras_alpha_58
+    21300120: Character Sprites and Extras_alpha_59
+    21300122: Character Sprites and Extras_alpha_60
+    21300124: Character Sprites and Extras_alpha_61
+    21300126: Character Sprites and Extras_alpha_62
+    21300128: Character Sprites and Extras_alpha_63
+    21300130: Character Sprites and Extras_alpha_64
+    21300132: Character Sprites and Extras_alpha_65
+    21300134: Character Sprites and Extras_alpha_66
+    21300136: Character Sprites and Extras_alpha_67
+    21300138: Character Sprites and Extras_alpha_68
+    21300140: Character Sprites and Extras_alpha_69
+    21300142: Character Sprites and Extras_alpha_70
+    21300144: Character Sprites and Extras_alpha_71
+    21300146: Character Sprites and Extras_alpha_72
+    21300148: Character Sprites and Extras_alpha_73
+    21300150: Character Sprites and Extras_alpha_74
+    21300152: Character Sprites and Extras_alpha_75
+    21300154: Character Sprites and Extras_alpha_76
+    21300156: Character Sprites and Extras_alpha_77
+    21300158: Character Sprites and Extras_alpha_78
+    21300160: Character Sprites and Extras_alpha_79
+    21300162: Character Sprites and Extras_alpha_80
+    21300164: Character Sprites and Extras_alpha_81
+    21300166: Character Sprites and Extras_alpha_82
+    21300168: Character Sprites and Extras_alpha_83
+    21300170: Character Sprites and Extras_alpha_84
+    21300172: Character Sprites and Extras_alpha_85
+    21300174: Character Sprites and Extras_alpha_86
+    21300176: Character Sprites and Extras_alpha_87
+    21300178: Character Sprites and Extras_alpha_88
+    21300180: Character Sprites and Extras_alpha_89
+    21300182: Character Sprites and Extras_alpha_90
+    21300184: Character Sprites and Extras_alpha_91
+    21300186: Character Sprites and Extras_alpha_92
+    21300188: Character Sprites and Extras_alpha_93
+    21300190: Character Sprites and Extras_alpha_94
+    21300192: Character Sprites and Extras_alpha_95
+    21300194: Character Sprites and Extras_alpha_96
+    21300196: Character Sprites and Extras_alpha_97
+    21300198: Character Sprites and Extras_alpha_98
+    21300200: Character Sprites and Extras_alpha_99
+    21300202: Character Sprites and Extras_alpha_100
+    21300204: Character Sprites and Extras_alpha_101
+    21300206: Character Sprites and Extras_alpha_102
+    21300208: Character Sprites and Extras_alpha_103
+    21300210: Character Sprites and Extras_alpha_104
+    21300212: Character Sprites and Extras_alpha_105
+    21300214: Character Sprites and Extras_alpha_106
+    21300216: Character Sprites and Extras_alpha_107
+    21300218: Character Sprites and Extras_alpha_108
+    21300220: Character Sprites and Extras_alpha_109
+    21300222: Character Sprites and Extras_alpha_110
+    21300224: Character Sprites and Extras_alpha_111
+    21300226: Character Sprites and Extras_alpha_112
+    21300228: Character Sprites and Extras_alpha_113
+    21300230: Character Sprites and Extras_alpha_114
+    21300232: Character Sprites and Extras_alpha_115
+    21300234: Character Sprites and Extras_alpha_116
+    21300236: Character Sprites and Extras_alpha_117
+    21300238: Character Sprites and Extras_alpha_118
+    21300240: Character Sprites and Extras_alpha_119
+    21300242: Character Sprites and Extras_alpha_120
+    21300244: Character Sprites and Extras_alpha_121
+    21300246: Character Sprites and Extras_alpha_122
+    21300248: Character Sprites and Extras_alpha_123
+    21300250: Character Sprites and Extras_alpha_124
+    21300252: Character Sprites and Extras_alpha_125
+    21300254: Character Sprites and Extras_alpha_126
+    21300256: Character Sprites and Extras_alpha_127
+    21300258: Character Sprites and Extras_alpha_128
+    21300260: Character Sprites and Extras_alpha_129
+    21300262: Character Sprites and Extras_alpha_130
+    21300264: Character Sprites and Extras_alpha_131
+    21300266: Character Sprites and Extras_alpha_132
+    21300268: Character Sprites and Extras_alpha_133
+    21300270: Character Sprites and Extras_alpha_134
+    21300272: Character Sprites and Extras_alpha_135
+    21300274: Character Sprites and Extras_alpha_136
+    21300276: Character Sprites and Extras_alpha_137
+    21300278: Character Sprites and Extras_alpha_138
+    21300280: Character Sprites and Extras_alpha_139
+    21300282: Character Sprites and Extras_alpha_140
+    21300284: Character Sprites and Extras_alpha_141
+    21300286: Character Sprites and Extras_alpha_142
+    21300288: Character Sprites and Extras_alpha_143
+    21300290: Character Sprites and Extras_alpha_144
+    21300292: Character Sprites and Extras_alpha_145
+    21300294: Character Sprites and Extras_alpha_146
+    21300296: Character Sprites and Extras_alpha_147
+    21300298: Character Sprites and Extras_alpha_148
+    21300300: Character Sprites and Extras_alpha_149
+    21300302: Character Sprites and Extras_alpha_150
+    21300304: Character Sprites and Extras_alpha_151
+    21300306: Character Sprites and Extras_alpha_152
+    21300308: Character Sprites and Extras_alpha_153
+    21300310: Character Sprites and Extras_alpha_154
+    21300312: Player_Gun_4
+    21300314: Character Sprites and Extras_alpha_156
+    21300316: Character Sprites and Extras_alpha_157
+    21300318: Character Sprites and Extras_alpha_158
+    21300320: Character Sprites and Extras_alpha_159
+    21300322: Character Sprites and Extras_alpha_160
+    21300324: Character Sprites and Extras_alpha_161
+    21300326: Character Sprites and Extras_alpha_162
+    21300328: Character Sprites and Extras_alpha_163
+    21300330: Character Sprites and Extras_alpha_164
+    21300332: Character Sprites and Extras_alpha_165
+    21300334: Character Sprites and Extras_alpha_166
+    21300336: Character Sprites and Extras_alpha_167
+    21300338: Character Sprites and Extras_alpha_168
+    21300340: Character Sprites and Extras_alpha_169
+    21300342: Character Sprites and Extras_alpha_170
+    21300344: Character Sprites and Extras_alpha_171
+    21300346: Character Sprites and Extras_alpha_172
+    21300348: Character Sprites and Extras_alpha_173
+    21300350: Character Sprites and Extras_alpha_174
+    21300352: Character Sprites and Extras_alpha_175
+    21300354: Character Sprites and Extras_alpha_176
+    21300356: Character Sprites and Extras_alpha_177
+    21300358: Character Sprites and Extras_alpha_178
+    21300360: Character Sprites and Extras_alpha_179
+    21300362: Character Sprites and Extras_alpha_180
+    21300364: Character Sprites and Extras_alpha_181
+    21300366: Character Sprites and Extras_alpha_182
+    21300368: Character Sprites and Extras_alpha_183
+    21300370: Character Sprites and Extras_alpha_184
+    21300372: Character Sprites and Extras_alpha_185
+    21300374: Character Sprites and Extras_alpha_186
+    21300376: Character Sprites and Extras_alpha_187
+    21300378: Character Sprites and Extras_alpha_188
+    21300380: Character Sprites and Extras_alpha_189
+    21300382: Character Sprites and Extras_alpha_190
+    21300384: Character Sprites and Extras_alpha_191
+    21300386: Character Sprites and Extras_alpha_192
+    21300388: Character Sprites and Extras_alpha_193
+    21300390: Character Sprites and Extras_alpha_194
+    21300392: Character Sprites and Extras_alpha_195
+    21300394: Character Sprites and Extras_alpha_196
+    21300396: Character Sprites and Extras_alpha_197
+    21300398: Character Sprites and Extras_alpha_198
+    21300400: Character Sprites and Extras_alpha_199
+    21300402: Character Sprites and Extras_alpha_200
+    21300404: Character Sprites and Extras_alpha_201
+    21300406: Character Sprites and Extras_alpha_202
+    21300408: Character Sprites and Extras_alpha_203
+    21300410: Character Sprites and Extras_alpha_204
+    21300412: Character Sprites and Extras_alpha_205
+    21300414: Character Sprites and Extras_alpha_206
+    21300416: Character Sprites and Extras_alpha_207
+    21300418: Character Sprites and Extras_alpha_208
+    21300420: Character Sprites and Extras_alpha_209
+    21300422: Character Sprites and Extras_alpha_210
+    21300424: Character Sprites and Extras_alpha_211
+    21300426: Character Sprites and Extras_alpha_212
+    21300428: Character Sprites and Extras_alpha_213
+    21300430: Character Sprites and Extras_alpha_214
+    21300432: Character Sprites and Extras_alpha_215
+    21300434: Character Sprites and Extras_alpha_216
+    21300436: Character Sprites and Extras_alpha_217
+    21300438: Character Sprites and Extras_alpha_218
+    21300440: Character Sprites and Extras_alpha_219
+    21300442: Character Sprites and Extras_alpha_220
+    21300444: Character Sprites and Extras_alpha_221
+    21300446: Character Sprites and Extras_alpha_222
+    21300448: Character Sprites and Extras_alpha_223
+    21300450: Character Sprites and Extras_alpha_224
+    21300452: Character Sprites and Extras_alpha_225
+    21300454: Character Sprites and Extras_alpha_226
+    21300456: Character Sprites and Extras_alpha_227
+    21300458: Character Sprites and Extras_alpha_228
+    21300460: Character Sprites and Extras_alpha_229
+    21300462: Character Sprites and Extras_alpha_230
+    21300464: Character Sprites and Extras_alpha_231
+    21300466: Character Sprites and Extras_alpha_232
+    21300468: Character Sprites and Extras_alpha_233
+    21300470: Character Sprites and Extras_alpha_234
+    21300472: Character Sprites and Extras_alpha_235
+    21300474: Character Sprites and Extras_alpha_236
+    21300476: Character Sprites and Extras_alpha_237
+    21300478: Player_Gun_1
+    21300480: Player_Gun_2
+    21300482: Player_Gun_3
+    21300484: Character Sprites and Extras_alpha_241
+    21300486: Character Sprites and Extras_alpha_242
+    21300488: Character Sprites and Extras_alpha_243
+    21300490: Character Sprites and Extras_alpha_244
+    21300492: Character Sprites and Extras_alpha_245
+    21300494: Character Sprites and Extras_alpha_246
+    21300496: Character Sprites and Extras_alpha_247
+    21300498: Character Sprites and Extras_alpha_248
+    21300500: Character Sprites and Extras_alpha_249
+    21300502: Character Sprites and Extras_alpha_250
+    21300504: Character Sprites and Extras_alpha_251
+    21300506: Character Sprites and Extras_alpha_252
+    21300508: Character Sprites and Extras_alpha_253
+    21300510: Character Sprites and Extras_alpha_254
+    21300512: Character Sprites and Extras_alpha_255
+    21300514: Character Sprites and Extras_alpha_256
+    21300516: Character Sprites and Extras_alpha_257
+    21300518: Character Sprites and Extras_alpha_258
+    21300520: Character Sprites and Extras_alpha_259
+    21300522: Character Sprites and Extras_alpha_260
+    21300524: Character Sprites and Extras_alpha_261
+    21300526: Character Sprites and Extras_alpha_262
+    21300528: Character Sprites and Extras_alpha_263
+    21300530: Character Sprites and Extras_alpha_264
+    21300532: Character Sprites and Extras_alpha_265
+    21300534: Character Sprites and Extras_alpha_266
+    21300536: Character Sprites and Extras_alpha_267
+    21300538: Character Sprites and Extras_alpha_268
+    21300540: Character Sprites and Extras_alpha_269
+    21300542: Character Sprites and Extras_alpha_270
+    21300544: Character Sprites and Extras_alpha_271
+    21300546: Character Sprites and Extras_alpha_272
+    21300548: Character Sprites and Extras_alpha_273
+    21300550: Character Sprites and Extras_alpha_274
+    21300552: Character Sprites and Extras_alpha_275
+    21300554: Character Sprites and Extras_alpha_276
+    21300556: Character Sprites and Extras_alpha_277
+    21300558: Character Sprites and Extras_alpha_278
+    21300560: Character Sprites and Extras_alpha_279
+    21300562: Character Sprites and Extras_alpha_280
+    21300564: Character Sprites and Extras_alpha_281
+    21300566: Character Sprites and Extras_alpha_282
+    21300568: Character Sprites and Extras_alpha_283
+    21300570: Character Sprites and Extras_alpha_284
+    21300572: Character Sprites and Extras_alpha_285
+    21300574: Character Sprites and Extras_alpha_286
+    21300576: Character Sprites and Extras_alpha_287
+    21300578: Character Sprites and Extras_alpha_288
+    21300580: Character Sprites and Extras_alpha_289
+    21300582: Player_Missle
+    21300584: Character Sprites and Extras_alpha_291
+    21300586: Character Sprites and Extras_alpha_292
+    21300588: Character Sprites and Extras_alpha_293
+    21300590: Character Sprites and Extras_alpha_294
+    21300592: Character Sprites and Extras_alpha_295
+    21300594: Character Sprites and Extras_alpha_296
+    21300596: Character Sprites and Extras_alpha_297
+    21300598: Character Sprites and Extras_alpha_298
+    21300600: Character Sprites and Extras_alpha_299
+    21300602: Character Sprites and Extras_alpha_300
+    21300604: Character Sprites and Extras_alpha_301
+    21300606: Character Sprites and Extras_alpha_302
+    21300608: Character Sprites and Extras_alpha_303
+    21300610: Character Sprites and Extras_alpha_304
+    21300612: Character Sprites and Extras_alpha_305
+    21300614: Character Sprites and Extras_alpha_306
+    21300616: Character Sprites and Extras_alpha_307
+    21300618: Character Sprites and Extras_alpha_308
+    21300620: Character Sprites and Extras_alpha_309
+    21300622: Character Sprites and Extras_alpha_310
+    21300624: Character Sprites and Extras_alpha_311
+    21300626: Character Sprites and Extras_alpha_312
+    21300628: Character Sprites and Extras_alpha_313
+    21300630: Character Sprites and Extras_alpha_314
+    21300632: Character Sprites and Extras_alpha_315
+    21300634: Character Sprites and Extras_alpha_316
+    21300636: Character Sprites and Extras_alpha_317
+    21300638: Character Sprites and Extras_alpha_318
+    21300640: Character Sprites and Extras_alpha_319
+    21300642: Character Sprites and Extras_alpha_320
+    21300644: Character Sprites and Extras_alpha_321
+    21300646: Character Sprites and Extras_alpha_322
+    21300648: Character Sprites and Extras_alpha_323
+    21300650: Character Sprites and Extras_alpha_324
+    21300652: Character Sprites and Extras_alpha_325
+    21300654: Character Sprites and Extras_alpha_326
+    21300656: Character Sprites and Extras_alpha_327
+    21300658: Character Sprites and Extras_alpha_328
+    21300660: Character Sprites and Extras_alpha_329
+    21300662: Character Sprites and Extras_alpha_330
+    21300664: Character Sprites and Extras_alpha_331
+    21300666: Character Sprites and Extras_alpha_332
+    21300668: Character Sprites and Extras_alpha_333
+    21300670: Character Sprites and Extras_alpha_334
+    21300672: Character Sprites and Extras_alpha_335
+    21300674: Character Sprites and Extras_alpha_336
+    21300676: Character Sprites and Extras_alpha_337
+    21300678: Character Sprites and Extras_alpha_338
+    21300680: Character Sprites and Extras_alpha_339
+    21300682: Character Sprites and Extras_alpha_340
+    21300684: Character Sprites and Extras_alpha_341
+    21300686: Character Sprites and Extras_alpha_342
+    21300688: Character Sprites and Extras_alpha_343
+    21300690: Character Sprites and Extras_alpha_344
+    21300692: Character Sprites and Extras_alpha_345
+    21300694: Character Sprites and Extras_alpha_346
+    21300696: Character Sprites and Extras_alpha_347
+    21300698: Character Sprites and Extras_alpha_348
+    21300700: Character Sprites and Extras_alpha_349
+    21300702: Character Sprites and Extras_alpha_350
+    21300704: Character Sprites and Extras_alpha_351
+    21300706: Character Sprites and Extras_alpha_352
+    21300708: Character Sprites and Extras_alpha_353
+    21300710: Character Sprites and Extras_alpha_354
+    21300712: Character Sprites and Extras_alpha_355
+    21300714: Character Sprites and Extras_alpha_356
+    21300716: Character Sprites and Extras_alpha_357
+    21300718: Character Sprites and Extras_alpha_358
+    21300720: Character Sprites and Extras_alpha_359
+    21300722: Character Sprites and Extras_alpha_360
+    21300724: Character Sprites and Extras_alpha_361
+    21300726: Character Sprites and Extras_alpha_362
+    21300728: Character Sprites and Extras_alpha_363
+    21300730: Character Sprites and Extras_alpha_364
+    21300732: Character Sprites and Extras_alpha_365
+    21300734: Character Sprites and Extras_alpha_366
+    21300736: Character Sprites and Extras_alpha_367
+    21300738: Character Sprites and Extras_alpha_368
+    21300740: Character Sprites and Extras_alpha_369
+    21300742: Character Sprites and Extras_alpha_370
+    21300744: Character Sprites and Extras_alpha_371
+    21300746: Character Sprites and Extras_alpha_372
+    21300748: Character Sprites and Extras_alpha_373
+    21300750: Character Sprites and Extras_alpha_374
+    21300752: Player_Gun_5
+    21300754: Character Sprites and Extras_alpha_376
+    21300756: Character Sprites and Extras_alpha_377
+    21300758: Character Sprites and Extras_alpha_378
+    21300760: Character Sprites and Extras_alpha_379
+    21300762: Character Sprites and Extras_alpha_380
+    21300764: Character Sprites and Extras_alpha_381
+    21300766: Character Sprites and Extras_alpha_382
+    21300768: Character Sprites and Extras_alpha_383
+    21300770: Character Sprites and Extras_alpha_384
+    21300772: Character Sprites and Extras_alpha_385
+    21300774: Character Sprites and Extras_alpha_386
+    21300776: Character Sprites and Extras_alpha_387
+    21300778: Character Sprites and Extras_alpha_388
+    21300780: Character Sprites and Extras_alpha_389
+    21300782: Character Sprites and Extras_alpha_390
+    21300784: Character Sprites and Extras_alpha_391
+    21300786: Character Sprites and Extras_alpha_392
+    21300788: Character Sprites and Extras_alpha_393
+    21300790: Character Sprites and Extras_alpha_394
+    21300792: Character Sprites and Extras_alpha_395
+    21300794: Character Sprites and Extras_alpha_396
+    21300796: Character Sprites and Extras_alpha_397
+    21300798: Character Sprites and Extras_alpha_398
+    21300800: Character Sprites and Extras_alpha_399
+    21300802: Character Sprites and Extras_alpha_400
+    21300804: Character Sprites and Extras_alpha_401
+    21300806: Character Sprites and Extras_alpha_402
+    21300808: Character Sprites and Extras_alpha_403
+    21300810: Zombie_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character Sprites and Extras_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 863
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 863
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 865
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 879
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 865
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 879
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 879
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 874
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 870
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 857
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 858
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 853
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 871
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 863
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 847
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 846
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 846
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 851
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 842
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 841
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 858
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 853
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 831
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 813
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 845
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 823
+        width: 117
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 848
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 848
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 831
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 822
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 823
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 835
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 835
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 828
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 820
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 808
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 818
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 777
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 782
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 779
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 791
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 812
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 812
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 810
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 795
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 787
+        width: 78
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 811
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 777
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 782
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 794
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 789
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 785
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 762
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 764
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 765
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 794
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 781
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 790
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 781
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 759
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 748
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 748
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 748
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 747
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 747
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 745
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 756
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 753
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 753
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 754
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 762
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 726
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 735
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 735
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 735
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 735
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 736
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 715
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 715
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 706
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 734
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 728
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 711
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 721
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 716
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 723
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 748
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 706
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 701
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 701
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_90
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 701
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 701
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_92
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 703
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 703
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_94
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 701
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_95
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 701
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_96
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 679
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_97
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 678
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_98
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 683
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_99
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 665
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_100
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 660
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_101
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 692
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_102
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 689
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_103
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 678
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_104
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 663
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_105
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 650
+        width: 181
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_106
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 649
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 685
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_108
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 680
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_109
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 662
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_110
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 672
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 672
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_112
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 660
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_113
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 659
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_114
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 658
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 658
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_116
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 658
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_117
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 657
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_118
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 657
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_119
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 657
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_120
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 640
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_121
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 638
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_122
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 644
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_123
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 626
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_124
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 609
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_125
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 609
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_126
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 609
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_127
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 604
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_128
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 623
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_129
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 622
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_130
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 618
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_131
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 616
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_132
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 614
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_133
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 619
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_134
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 629
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_135
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 599
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_136
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 619
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_137
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 592
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_138
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 587
+        width: 182
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_139
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 604
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_140
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 576
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_141
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 601
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_142
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 561
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_143
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 584
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_144
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 543
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 578
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_146
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 592
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_147
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 574
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_148
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 572
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_149
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 570
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_150
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 568
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_151
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 570
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_152
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 570
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_153
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 570
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_154
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 578
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Gun_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 561
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_156
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 560
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_157
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 560
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_158
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 555
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_159
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 571
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_160
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 552
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_161
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 548
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_162
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 568
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_163
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 532
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_164
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 536
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_165
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 532
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_166
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 530
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_167
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 523
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_168
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 533
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_169
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 532
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_170
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 528
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_171
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 527
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_172
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 527
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_173
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 527
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_174
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 527
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_175
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 533
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_176
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 533
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_177
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 512
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_178
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 523
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_179
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 538
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_180
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 479
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_181
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 515
+        width: 167
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_182
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 538
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_183
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 502
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_184
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 512
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_185
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 512
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_186
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 503
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_187
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 500
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_188
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 501
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_189
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 500
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_190
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 509
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_191
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 511
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_192
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 496
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_193
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 480
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_194
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 499
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_195
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 470
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_196
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 518
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_197
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 466
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_198
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 495
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_199
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 492
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_200
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 492
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_201
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 476
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_202
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 479
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_203
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 499
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_204
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 499
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_205
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 489
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_206
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 471
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_207
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 471
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_208
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 462
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_209
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 467
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_210
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 476
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_211
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 457
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_212
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 479
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_213
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 477
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_214
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 470
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_215
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 465
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_216
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 455
+        width: 163
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_217
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 436
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_218
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 444
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_219
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 446
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_220
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 435
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_221
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 457
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_222
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 457
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_223
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 456
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_224
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 441
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_225
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 441
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_226
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 454
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_227
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 405
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_228
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 415
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_229
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 426
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_230
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 423
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_231
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 428
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_232
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 424
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_233
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 419
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_234
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 406
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_235
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 436
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_236
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 395
+        width: 161
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_237
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Gun_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 391
+        width: 28
+        height: 19
+      alignment: 9
+      pivot: {x: .300000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Gun_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 394
+        width: 37
+        height: 19
+      alignment: 9
+      pivot: {x: .300000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Gun_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 394
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_241
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 406
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_242
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 400
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_243
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 399
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_244
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 396
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_245
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 392
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_246
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 380
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_247
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 368
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_248
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 370
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_249
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 365
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_250
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 382
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_251
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 345
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_252
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 344
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_253
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 370
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_254
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 370
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_255
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 368
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_256
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 347
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_257
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 347
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_258
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 339
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_259
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 339
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_260
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 350
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_261
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 309
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_262
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 345
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_263
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 342
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_264
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 355
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 350
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_266
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 347
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_267
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 345
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_268
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 324
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_269
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 322
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_270
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_271
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 331
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_272
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 313
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_273
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 307
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_274
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 302
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_275
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 317
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_276
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 302
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_277
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 302
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_278
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 309
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_279
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 309
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_280
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 258
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_281
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 304
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_282
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 294
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_283
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 289
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_284
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 302
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_285
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 260
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_286
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 262
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_287
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 268
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_288
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 273
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_289
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 293
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Missle
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 270
+        width: 41
+        height: 27
+      alignment: 9
+      pivot: {x: .313694805, y: .650884569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_291
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 265
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_292
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_293
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_294
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 251
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_295
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 276
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_296
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 279
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_297
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 236
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_298
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_299
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 215
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_300
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_301
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 217
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_302
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 243
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_303
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 255
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_304
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 242
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_305
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 211
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_306
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 199
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_307
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 192
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_308
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 192
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_309
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 192
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_310
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 197
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_311
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 238
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_312
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 238
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_313
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 169
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_314
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 182
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_315
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 180
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_316
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 174
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_317
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 197
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_318
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 207
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_319
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 211
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_320
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 211
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_321
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_322
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 186
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_323
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 166
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_324
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 167
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_325
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 185
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_326
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 182
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_327
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 182
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_328
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 167
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_329
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 181
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_330
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 155
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_331
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 165
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_332
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 157
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_333
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 161
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_334
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_335
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 136
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_336
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 113
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_337
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 116
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_338
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 151
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_339
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 151
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_340
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 155
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_341
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 152
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_342
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 154
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_343
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_344
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 86
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_345
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 144
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_346
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 141
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_347
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 144
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_348
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 115
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_349
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 129
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_350
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 128
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_351
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 124
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_352
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_353
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 118
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_354
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 115
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_355
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 109
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_356
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 106
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_357
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 123
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_358
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 125
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_359
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 105
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_360
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 131
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_361
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 128
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_362
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 125
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_363
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 98
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_364
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 111
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_365
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 114
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_366
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 106
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_367
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 80
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_368
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_369
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_370
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 89
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_371
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 68
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_372
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_373
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_374
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Gun_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 75
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_376
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_377
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 72
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_378
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 73
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_379
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 68
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_380
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 45
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_381
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 68
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_382
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 68
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_383
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 53
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_384
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 40
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_385
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 50
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_386
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_387
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 45
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_388
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 37
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_389
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 26
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_390
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 27
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_391
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 37
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_392
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 47
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_393
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 39
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_394
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 35
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_395
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 31
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_396
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 12
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_397
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 42
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_398
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_399
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_400
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 17
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_401
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 38
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_402
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character Sprites and Extras_alpha_403
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 4
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
